@@ -31,7 +31,9 @@ export default function Tailwind() {
             </div>
           </div>
         </div>
+        <div class="w-[95%] border-solid border-t-2 border-gray-100">aa</div>
       </div>
+      
     </>
   );
 }
